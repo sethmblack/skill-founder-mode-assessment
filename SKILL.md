@@ -4,7 +4,7 @@ description: Diagnose whether a leader or organization operates in founder mode 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4036
+  version: 1.0.4037
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - founder-mode-assessment
